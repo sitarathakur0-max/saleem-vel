@@ -1,0 +1,6 @@
+{
+  "name": "Saleem Veterinary Clinic & Pet Shop",
+  "description": "Professional veterinary care and quality pet supplies located at Coca Cola Stop, 8 Km Multan Road, Sabzazar, Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
